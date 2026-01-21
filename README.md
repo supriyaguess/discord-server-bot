@@ -1,2 +1,5 @@
 # discord-server-bot
-A Discord server management bot that automates moderation, roles, verification, and admin tasks. Built using Node.js while learning Discord bot development and backend systems.
+Discord Server Management Bot is a Node.js–based Discord bot built to automate and simplify server management. It provides moderation tools, role management, user verification, and admin utilities while exploring Discord bot development and backend concepts.
+
+
+# Discord Bot Project
